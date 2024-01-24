@@ -4,7 +4,8 @@
 Durant ce deuxième TP, nous serons amenés à intégrer un timer et des afficheurs 7-segments. L'objectif est de mettre en place un compteur qui s'affiche sur les 7-segments, en étant synchronisé toutes les secondes par le timer.
 
 # Architecture du système :
-![418083735_1547769249400864_8027855495097236715_n](https://github.com/ESN2024/BOUTARF_lab2/assets/121360725/e8e9ef6b-4403-475c-8d8d-d7e8d9a04eea)
+
+![Uploading 417591002_720186380213863_5386278482894153472_n.png…]()
 
 Pour ce deuxième système, il se compose d'un nios 2, une mémoire on-chip, un jtag uart pour le debugage ainsi que quatre pio. On a trois PIO pour les trois afficheurs sept-segments en Output, et un PIO en mode Input pour le Switch, afin de pouvoir faire un reset de comptage.
 
