@@ -1,8 +1,6 @@
 # ignore
-**/lab1_qsys
+**/lab2_qsys
 **/.metadata
-
-
 
 # C
 # Object files
