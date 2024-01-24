@@ -5,7 +5,8 @@ Durant ce deuxième TP, nous serons amenés à intégrer un timer et des affiche
 
 # Architecture du système :
 
-![417591002_720186380213863_5386278482894153472_n](https://github.com/ESN2024/BOUTARF_lab2/assets/121360725/7cf6fc2e-861b-4951-92a5-6d9af959a9f9)
+![418083735_1547769249400864_8027855495097236715_n (1)](https://github.com/ESN2024/BOUTARF_lab2/assets/121360725/06e17145-5588-4d69-a47d-55638b38a2d0)
+
 
 
 Pour ce deuxième système, il se compose d'un nios 2, une mémoire on-chip, un jtag uart pour le debugage ainsi que quatre pio. On a trois PIO pour les trois afficheurs sept-segments en Output, et un PIO en mode Input pour le Switch, afin de pouvoir faire un reset de comptage.
